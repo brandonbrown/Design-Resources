@@ -2,7 +2,6 @@ Font file websites
 -------------------------
 
 **Lost Type Co-Op**
-
 [losttype.com](http://http://losttype.com)
 
 * Pay what you want. All money goes to the font designers, Lost Type does not take any
@@ -13,7 +12,6 @@ Font file websites
 
 
 **The League of Moveable Type**
-
 [theleagueofmoveabletype.com/](http://www.theleagueofmoveabletype.com/)
 
 * Free, open-source fonts
@@ -22,7 +20,6 @@ Font file websites
 
 
 **Font Fabric**
-
 [fontfabric.com](http://www.fontfabric.com)
 
 * Not all free. For free fonts visit [fontfabric.com/category/free/](http://fontfabric.com/category/free/)
@@ -31,7 +28,6 @@ Font file websites
 
 
 **MyFonts**
-
 [myfonts.com/](http://www.myfonts.com/)
 
 * Primarily pay fonts
@@ -39,7 +35,6 @@ Font file websites
 
 
 **Google Fonts**
-
 [google.com/fonts/](http://www.google.com/fonts/)
 
 * All are web font ready
@@ -50,7 +45,6 @@ Font file websites
 
 
 **Font Squirrel**
-
 [fontsquirrel.com/](http://www.fontsquirrel.com/)
 
 * Not all are web ready
@@ -59,7 +53,6 @@ Font file websites
 
 
 **Font Shop**
-
 [fontshop.com/](http://www.fontshop.com/)
 
 * Primarily pay fonts
