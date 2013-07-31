@@ -61,3 +61,11 @@ Font file download websites
 * No blog, but rather a [newsletter archive](http://www.fontshop.com/blog/newsletters/)
 * Adobe Creative Suite Plugin for [previewing fonts directly in your software without downloading them](http://www.fontshop.com/plugin/)
 
+
+**Veer**
+[veer.com](http://www.veer.com/products/fonts/)
+
+* Primarily pay fonts
+* Great selection
+* Sales often
+* [Great font finder](http://www.veer.com/products/fonts/finder/)
