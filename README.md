@@ -10,6 +10,5 @@ Typography
 * [Typography technicalities](https://github.com/brandonbrown/Design-Resources/blob/master/font-technicals.md)
 
 
-Recommended Book Resources
--------------------------
+**Recommended Book Resources**
 * [Get 'em Analog](https://github.com/brandonbrown/Design-Resources/blob/master/books.md)
