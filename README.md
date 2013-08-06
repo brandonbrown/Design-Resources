@@ -15,3 +15,15 @@ Typography
 ***
 **Books on Design**
 * [Get 'em Analog](https://github.com/brandonbrown/Design-Resources/blob/master/books.md)
+
+***
+
+***Coming Soon***
+* Color Theory
+* Responsive Design
+* Advanced CSS
+* Design Principles and Foundations
+* User Experience
+* Planning, Wireframing, and Prototyping
+* Software Help and Tutorials (Photoshop, Illustrator, After Effects, Etc.)
+* Further learning, Recommended Websites, People to follow
