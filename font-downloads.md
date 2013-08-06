@@ -38,9 +38,10 @@ Font file download websites
 [google.com/fonts/](http://www.google.com/fonts/)
 
 * All are web font ready
+* Font hosting solution
 * Nice interface to find what you really need
 * Fonts are not all of high quality. Many are missing multiple weights or limited to one
-* Includes easy connection to your website and hosts your fonts
+* Easy to integrate
 * Downloads available
 
 
@@ -69,3 +70,30 @@ Font file download websites
 * Great selection
 * Sales often
 * [Great font finder](http://www.veer.com/products/fonts/finder/)
+
+
+**TypeKit**
+[typekit.com](http://www.typekit.com)
+
+* Now only available through Adobe Subscription Plan
+* Font hosting solution
+* Great font finding interface
+* Easy to integrate into site
+* High quality choices
+
+
+**House**
+[houseind.com/](http://www.houseind.com/fonts/)
+
+* Pay fonts
+* High quality
+* Not web friendly
+* Mostly display styles
+
+
+**FontDeck**
+[fontdeck.com/](http://fontdeck.com/)
+
+* Font hosting solution
+* [Nice showcase gallery](http://fontdeck.com/showcase)
+* Payment plan is per font which may help to keep bills lower
