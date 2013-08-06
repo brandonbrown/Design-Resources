@@ -12,4 +12,4 @@ Typography
 
 Recommended Book Resources
 -------------------------
-* [Get 'em Analog](https://github.com/brandonbrown/Design-Resources/blob/master/boks.md)
+* [Get 'em Analog](https://github.com/brandonbrown/Design-Resources/blob/master/books.md)
