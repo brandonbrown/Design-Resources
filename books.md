@@ -1,5 +1,5 @@
-Recommended Book Resources
---------------------------
+Books on Design
+---------------
 
 [Five Simple Steps](http://www.fivesimplesteps.com/)
 * A superb collection of books and guides on many areas of design applied to the web
