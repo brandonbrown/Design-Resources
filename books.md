@@ -11,3 +11,7 @@ Recommended Book Resources
 
 [A Book Apart](http://www.abookapart.com/)
 * Coming from the people at [A List Apart](http://www.abookapart.com/), you can expect high quality content in easilly digestable chunks. New books released at a steady pace.
+
+
+[Execute](http://executebook.com/)
+* Don't wait to make your ideas tangible. This book was created in 8 days as a testament to their message. 

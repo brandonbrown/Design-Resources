@@ -7,9 +7,9 @@ Typography Technicalities
 * At time of adding this link, there is a sidebar on the right to help navigate this content
 
 
-**Size Choices*
+**Size Choices**
 
-[More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography)]
+[More Meaningful Typography](http://alistapart.com/article/more-meaningful-typography)
 
 [Five Simple Steps to Typography: 4- Size](http://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography-part-4)
 
@@ -26,6 +26,7 @@ Typography Technicalities
 
 [Creating Exciting And Unusual Visual Hierarchies](http://www.smashingmagazine.com/2013/02/26/creating-visual-hierarchies-typography/)
 
-**Parts of a letter**
+
+**Parts of a letterform**
 
 [Anatomy of type](http://designingfortheweb.co.uk/book/part3/part3_chapter11.php)
