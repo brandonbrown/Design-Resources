@@ -1,5 +1,5 @@
-Font file download websites
--------------------------
+Fonts for use websites
+----------------------
 
 **Lost Type Co-Op**
 [losttype.com](http://http://losttype.com)
