@@ -1,13 +1,17 @@
-http://usablica.github.io/front-end-frameworks/compare.html
+**Current Frameworks**
 
-http://getbootstrap.com/
+***[List of frameworks and their capabilities](http://usablica.github.io/front-end-frameworks/compare.html)***
 
-http://foundation.zurb.com/
+[bootstrap](http://getbootstrap.com/)
 
-https://github.com/uikit/uikit
+[foundation](http://foundation.zurb.com/)
 
-https://github.com/nathansmith/960-grid-system/
+[uikit](https://github.com/uikit/uikit)
 
-https://github.com/joshuaclayton/blueprint-css
+[960gs](https://github.com/nathansmith/960-grid-system/)
 
-https://github.com/dhg/Skeleton
+[blueprint](https://github.com/joshuaclayton/blueprint-css)
+
+[skeleton](https://github.com/dhg/Skeleton)
+
+***
