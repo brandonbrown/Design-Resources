@@ -12,10 +12,15 @@ Typography
 
 
 
+
 ***
 **Books on Design**
 * [Get 'em Analog](https://github.com/brandonbrown/Design-Resources/blob/master/books.md)
 
+***
+
+***
+[Front-End Framework research](https://github.com/brandonbrown/Design-Resources/blob/master/fed-frameworks.md)
 ***
 
 ***Possibly Coming Soon***
