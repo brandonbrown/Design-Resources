@@ -30,3 +30,12 @@ Typography Technicalities
 **Parts of a letterform**
 
 [Anatomy of type](http://designingfortheweb.co.uk/book/part3/part3_chapter11.php)
+
+
+**Unicode and special character resources**
+
+[List of unicode characters](http://en.wikipedia.org/wiki/List_of_Unicode_characters)
+
+[Alternative entity entries for characters](http://graphemica.com/)
+
+
