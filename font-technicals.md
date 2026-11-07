@@ -34,6 +34,10 @@ Typography Technicalities
 
 **Unicode and special character resources**
 
+[ASCII Images Unicode Inspector](https://ascii-images.com/unicode-inspector)
+
+* Browser-based inspector displaying code points, invisible characters and UTF-16 offsets.
+
 [List of unicode characters](http://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 [Alternative entity entries for characters](http://graphemica.com/)
