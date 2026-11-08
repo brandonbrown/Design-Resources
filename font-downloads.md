@@ -1,6 +1,11 @@
 Fonts for use websites
 ----------------------
 
+**Chalk Counter**
+[cursive-generation.com/fonts/chalk-counter](https://cursive-generation.com/fonts/chalk-counter)
+
+* Free Regular font with a custom commercial-use and embedding license; font-file resale is prohibited.
+
 **Lost Type Co-Op**
 [losttype.com](http://http://losttype.com)
 
